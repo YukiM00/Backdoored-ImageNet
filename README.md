@@ -6,6 +6,7 @@
 ### Requirements
 - python 3.6.6
 - tensorflow-gpu==1.14.0
+- keras==2.2.4
 - scikit-learn==0.22.2
 - numpy==1.19.5
 
