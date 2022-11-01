@@ -1,5 +1,9 @@
 # Backdoored-ImageNet
---preparing--
+This repository contains data and code used in our study on Backdoor Attacks on Deep Neural Networks via Transfer Learning from Natural Images.
+
+## Terms of use
+
+MIT licensed.
 
 ## Usage
 
