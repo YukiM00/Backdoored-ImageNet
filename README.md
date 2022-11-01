@@ -15,7 +15,7 @@ MIT licensed.
 - numpy==1.19.5
 
 
-### Download the following datasets
+### Download the datasets
 - Aerial images
    - [EmergencyNet: Efficient Aerial Image Classification for Drone-Based Emergency Monitoring Using Atrous Convolutional Feature Fusion](https://ieeexplore.ieee.org/document/9050881/algorithms?tabFilter=code#algorithms)
    
