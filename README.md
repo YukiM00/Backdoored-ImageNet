@@ -3,7 +3,9 @@ This repository contains data and code used in our study on *Backdoor Attacks on
 
 ## Terms of use
 
-MIT licensed.
+MIT licensed. Happy if you cite our paper when using the codes:
+
+Matsuo Y and Takemoto K (2022) **Backdoor attacks on deep neural networks via transfer learning from natural images**. Appl. Sci. 12, 12564. doi:10.3390/app122412564.
 
 ## Usage
 
